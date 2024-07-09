@@ -32,7 +32,8 @@ const Cases = () => {
                         </Case>
 
                         <Case color="orange" transform={transform}>                    
-                            <h3 style={{textTransform:"upperCase"}}> Esse <strong style={{color:"red"}}>texto</strong> está com as letras maiusculas também, mas a linha abaixo não./</h3>
+                            <h3 style={{textTransform:"upperCase"}}> Esse <strong style={{color:"red"}}>texto
+                                </strong> está com as letras maiusculas também, mas a linha abaixo não./</h3>
                             <p style={{fontSize:"15px", color: "blue", backgroundColor:"green"}}>Esse é um texto com o fundo verde</p>              
                         </Case>
             </article>
